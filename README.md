@@ -1,70 +1,196 @@
 <!-- Banner -->
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hey%20There%20👋%20I'm%20Jainik%20Patel&fontSize=40&fontColor=ffffff&fontAlignY=35&animation=fadeIn)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Hey%20There%20👋%20I'm%20Jainik%20Patel&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
 
-<!-- Typing Intro -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00c6ff&width=600&lines=Full-Stack+Developer;MERN+Stack+Learner;Competitive+Programmer;Lifelong+Tech+Explorer)](https://git.io/typing-svg)
+<p align="center">
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Building+Products+Not+Just+Projects;Full+Stack+Developer;500%2B+DSA+Problems+Solved;React+%7C+Node.js+%7C+Java;Always+Learning+🚀"/>
+</a>
+</p>
 
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=jainikptl&color=00c6ff&style=flat-square)  
-
----
-
-### 🌟 About Me  
-💻 Passionate about **web development** & **problem solving**  
-🚀 Exploring **MERN Stack** & **Cloud Technologies**  
-📍 Based in **India**  
-⚡ Fun fact: I debug my code more than I write it 😋  
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=jainikptl&style=for-the-badge&color=0e75b6"/>
+</p>
 
 ---
 
+# 👨‍💻 Who am I?
 
+🎓 Final Year **B.Tech Computer Science Engineering** student at **Ahmedabad University**.
 
-### 🏆 Competitive Programming Profiles  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/jainikptl/)  
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Jainik.p)  
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/jainikpatel670)  
+💻 Passionate about building scalable **Full-Stack Web Applications** using modern technologies.
 
----
+🚀 Interested in **Software Engineering, Product Development, Backend Systems and Cloud Technologies.**
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Render](https://img.shields.io/badge/render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white) 
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white) 
-![Adobe Lightroom](https://img.shields.io/badge/adobe%20lightroom-%2300A8E1.svg?style=for-the-badge&logo=adobelightroom&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-%23007ACC.svg?style=for-the-badge&logo=xcode&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-%23075C00.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white) 
+🧠 Solved **500+ DSA Problems** across LeetCode, Codeforces & CodeChef.
+
+⚡ Currently building real-world products that solve practical problems.
 
 ---
 
-### 📊 GitHub Stats  
-![Jainik's GitHub stats](https://github-readme-stats.vercel.app/api?username=jainikptl&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jainikptl&layout=compact&theme=tokyonight)  
+# 🚀 Featured Projects
+
+## 📈 TradeD – Personal Trading Operating System
+
+- 📊 Trading Journal
+- 🤖 AI Trade Analysis
+- 📈 Performance Dashboard
+- 🔗 Broker Integration
+- ⚛ React + Spring Boot + PostgreSQL
 
 ---
 
-### 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jainik-patel-91b676295/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jainik02/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jainik.p@ahduni.edu.in)
+## 💼 Doom's World
 
+Modern Recruitment Platform
+
+- Resume Analysis
+- Swipe Hiring
+- Live Chat
+- Calendar
+- Leaderboards
+
+**Tech Stack:** React • Node.js • MongoDB
 
 ---
 
-<!-- Footer -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer)
+## 🥤 Dolat Beverages
+
+Animated Brand Website
+
+- GSAP Animations
+- Next.js
+- TypeScript
+- Responsive UI
+
+---
+
+## 🎓 Can I Bunk?
+
+Attendance Prediction System
+
+- Attendance Calculator
+- Smart Bunk Prediction
+- Student Friendly Dashboard
+
+---
+
+# 🛠 Tech Stack
+
+### 💻 Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### 🎨 Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss)
+
+### ⚙ Backend
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+
+### 🗄 Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+
+### 🛠 Tools
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+
+---
+
+# 🏆 Competitive Programming
+
+<p align="center">
+
+<a href="https://leetcode.com/u/jainikptl/">
+<img height="170" src="https://leetcard.jacoblin.cool/jainikptl?theme=dark&font=Baloo&ext=contest"/>
+</a>
+
+<a href="https://codeforces.com/profile/Jainik.p">
+<img height="170" src="https://codeforces-readme-stats.vercel.app/api/card?username=Jainik.p&theme=github_dark"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://www.codechef.com/users/jainikpatel670">
+<img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge&logo=codechef"/>
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jainikptl&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=jainikptl&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=jainikptl&theme=tokyo-night"/>
+
+</p>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainikptl&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- System Design
+- Docker
+- AWS
+- CI/CD
+- Backend Architecture
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/jainik-patel-91b676295/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:jainik.p@ahduni.edu.in">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://www.instagram.com/jainik02/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer"/>
+</p>
